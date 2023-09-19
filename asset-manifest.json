@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/custom-emojis/static/css/main.2e724890.css",
-    "main.js": "/custom-emojis/static/js/main.8dda42d3.js",
+    "main.js": "/custom-emojis/static/js/main.caf0159b.js",
     "index.html": "/custom-emojis/index.html",
     "main.2e724890.css.map": "/custom-emojis/static/css/main.2e724890.css.map",
-    "main.8dda42d3.js.map": "/custom-emojis/static/js/main.8dda42d3.js.map"
+    "main.caf0159b.js.map": "/custom-emojis/static/js/main.caf0159b.js.map"
   },
   "entrypoints": [
     "static/css/main.2e724890.css",
-    "static/js/main.8dda42d3.js"
+    "static/js/main.caf0159b.js"
   ]
 }
