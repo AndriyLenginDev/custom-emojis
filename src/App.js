@@ -2,7 +2,9 @@ import { useState } from 'react';
 import TextArea from './TextArea';
 import EmojiPicker from './EmojiPicker';
 
-const EMOJI = `<img class='inline-flex' width='20' height='20' src='/emojis/flushed_emoji.png' alt=''/>`;
+// const EMOJI = `<img class='inline-flex' width='20' height='20' src='/emojis/flushed_emoji.png' alt=''/>`;
+
+const EMOJI = `<img class='inline-flex' width='20' height='20' src='${window.location.origin}/emojis/flushed_emoji.png' alt=''/>`;
 
 function App() {
   const [content, setContent] = useState('');
