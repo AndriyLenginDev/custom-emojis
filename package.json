@@ -1,5 +1,6 @@
 {
   "name": "custom-emojis",
+  "homepage": "https://andriylengindev.github.io/custom-emojis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "prettier": "2.8.4",
     "tailwindcss": "^3.3.3"
   }
